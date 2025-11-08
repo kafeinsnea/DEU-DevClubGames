@@ -1,0 +1,183 @@
+[
+  {
+    "emojis": "🍎📱",
+    "answer": "iPhone",
+    "difficulty": "easy",
+    "category": "Teknoloji"
+  },
+  {
+    "emojis": "☕️🌅",
+    "answer": "Kahvaltı",
+    "difficulty": "easy",
+    "category": "Yemek"
+  },
+  {
+    "emojis": "🎬🍿",
+    "answer": "Sinema",
+    "difficulty": "easy",
+    "category": "Eğlence"
+  },
+  {
+    "emojis": "🏠🔑💰",
+    "answer": "Ev Kredisi",
+    "difficulty": "medium",
+    "category": "Finans"
+  },
+  {
+    "emojis": "👨‍💻🐛🔍",
+    "answer": "Debug",
+    "difficulty": "hard",
+    "category": "Yazılım"
+  },
+  {
+    "emojis": "🌍🔥🌡️",
+    "answer": "Küresel Isınma",
+    "difficulty": "medium",
+    "category": "Çevre"
+  },
+  {
+    "emojis": "🎮👾🕹️",
+    "answer": "Video Oyunu",
+    "difficulty": "easy",
+    "category": "Teknoloji"
+  },
+  {
+    "emojis": "🚀🌙👨‍🚀",
+    "answer": "Uzay Yolculuğu",
+    "difficulty": "medium",
+    "category": "Bilim"
+  },
+  {
+    "emojis": "🍕🇮🇹",
+    "answer": "Pizza",
+    "difficulty": "easy",
+    "category": "Yemek"
+  },
+  {
+    "emojis": "🐱🥛",
+    "answer": "Kedi",
+    "difficulty": "easy",
+    "category": "Hayvan"
+  },
+  {
+    "emojis": "🚗⛽️",
+    "answer": "Benzin",
+    "difficulty": "easy",
+    "category": "Ulaşım"
+  },
+  {
+    "emojis": "📚✏️",
+    "answer": "Ödev",
+    "difficulty": "easy",
+    "category": "Eğitim"
+  },
+  {
+    "emojis": "🌧️☔️",
+    "answer": "Yağmur",
+    "difficulty": "easy",
+    "category": "Hava"
+  },
+  {
+    "emojis": "🎵🎤",
+    "answer": "Şarkı",
+    "difficulty": "easy",
+    "category": "Müzik"
+  },
+  {
+    "emojis": "🏥👩‍⚕️",
+    "answer": "Doktor",
+    "difficulty": "easy",
+    "category": "Meslek"
+  },
+  {
+    "emojis": "🌊🏄‍♂️",
+    "answer": "Sörf",
+    "difficulty": "medium",
+    "category": "Spor"
+  },
+  {
+    "emojis": "🍫❤️",
+    "answer": "Çikolata",
+    "difficulty": "easy",
+    "category": "Yemek"
+  },
+  {
+    "emojis": "☀️🌴",
+    "answer": "Tatil",
+    "difficulty": "easy",
+    "category": "Eğlence"
+  },
+  {
+    "emojis": "🎂🎉",
+    "answer": "Doğum Günü",
+    "difficulty": "easy",
+    "category": "Kutlama"
+  },
+  {
+    "emojis": "💻⌨️",
+    "answer": "Programlama",
+    "difficulty": "medium",
+    "category": "Teknoloji"
+  },
+  {
+    "emojis": "🔍🕵️‍♂️",
+    "answer": "Dedektif",
+    "difficulty": "medium",
+    "category": "Meslek"
+  },
+  {
+    "emojis": "🎭🎪",
+    "answer": "Tiyatro",
+    "difficulty": "medium",
+    "category": "Sanat"
+  },
+  {
+    "emojis": "🧠💡",
+    "answer": "Fikir",
+    "difficulty": "medium",
+    "category": "Düşünce"
+  },
+  {
+    "emojis": "🚁🌪️",
+    "answer": "Helikopter",
+    "difficulty": "medium",
+    "category": "Ulaşım"
+  },
+  {
+    "emojis": "🎯🏹",
+    "answer": "Okçuluk",
+    "difficulty": "medium",
+    "category": "Spor"
+  },
+  {
+    "emojis": "🧪⚗️",
+    "answer": "Kimya",
+    "difficulty": "hard",
+    "category": "Bilim"
+  },
+  {
+    "emojis": "🎨🖌️",
+    "answer": "Resim",
+    "difficulty": "easy",
+    "category": "Sanat"
+  },
+  {
+    "emojis": "🔐🗝️",
+    "answer": "Şifre",
+    "difficulty": "medium",
+    "category": "Güvenlik"
+  },
+  {
+    "emojis": "🌱🌳",
+    "answer": "Büyümek",
+    "difficulty": "medium",
+    "category": "Doğa"
+  },
+  {
+    "emojis": "⚡️🔋",
+    "answer": "Elektrik",
+    "difficulty": "medium",
+    "category": "Enerji"
+  }
+]
+
